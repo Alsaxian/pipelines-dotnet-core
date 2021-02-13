@@ -5,7 +5,7 @@
 # try to modify the file
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
